@@ -34,21 +34,21 @@
 
 ## Indice
 
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Stack Tecnologico](#-stack-tecnologico)
-- [Arquitetura](#-arquitetura)
-- [Inicio Rapido](#-inicio-rapido)
-- [Configuracao de Servicos](#-configuracao-de-servicos)
-- [Scripts Disponiveis](#-scripts-disponiveis)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Testes](#-testes)
-- [Deploy em Producao](#-deploy-em-producao)
-- [Variaveis de Ambiente](#-variaveis-de-ambiente)
-- [Solucao de Problemas](#-solucao-de-problemas)
-- [Contribuindo](#-contribuindo)
-- [Suporte](#-suporte)
-- [Licenca](#-licenca)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Stack Tecnologico](#stack-tecnologico)
+- [Arquitetura](#arquitetura)
+- [Inicio Rapido](#inicio-rapido)
+- [Configuracao de Servicos](#configuracao-de-servicos)
+- [Scripts Disponiveis](#scripts-disponiveis)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Testes](#testes)
+- [Deploy em Producao](#deploy-em-producao)
+- [Variaveis de Ambiente](#variaveis-de-ambiente)
+- [Solucao de Problemas](#solucao-de-problemas)
+- [Contribuindo](#contribuindo)
+- [Suporte](#suporte)
+- [Licenca](#licenca)
 
 ---
 
